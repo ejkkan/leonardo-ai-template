@@ -1,1 +1,6 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+### Setup
+
+Add:
+LEONARDO=KEY='Bearer <your key>'
+to:
+`.env.local` file
